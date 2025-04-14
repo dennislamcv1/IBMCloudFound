@@ -1,5 +1,4 @@
-# IBMCloudFound
-## Cloud Application Development Foundations Specialization
+## Cloud Application Development Foundations Specialization (5 course series)
 
 This program will equip you with all the key 
 skills and technical know-how to kickstart your career as a full-stack 
